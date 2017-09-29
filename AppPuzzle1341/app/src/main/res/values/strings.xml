@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AppPuzzle1341</string>
+    <string name="txt_mezclar">Mezclar</string>
+    <string name="txt_salir">Salir</string>
+    <string name="texto_tipo">Tipo</string>
+    <string name="texto_imagen">Imagen</string>
+    <string name="texto_nombre">Nombre: Héctor Manuel Loza Cruz</string>
+    <string name="texto_grupo">Grupo: GSI1341</string>
+    <string name="texto_asignatura">Asignatura: Desarrollo de Aplicaciones II</string>
+    <string name="texto_nomProf">Nom. Profesor: Apolinar Trejo</string>
+    <string name="texto_mostrar_creditos">Créditos</string>
+    <string-array name="opciones">
+        <item>Seleccione imagen...</item>
+        <item>Goku</item>
+        <item>Mario</item>
+        <item>Dragon Ball Z</item>
+        <item>Payaso</item>
+        <item>Sombrerero</item>
+        <item>Android</item>
+        <item>Numeros</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>Tipo de rompecabezas...</item>
+        <item>Libre</item>
+        <item>Clásico</item>
+        <item>Circular</item>
+    </string-array>
+</resources>
